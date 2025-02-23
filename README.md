@@ -77,7 +77,7 @@ procedural-terrain-generation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/procedural-terrain-generation.git
+   git clone https://github.com/sashminea/procedural-terrain-generation.git
    ```
 2. Navigate to the project directory:
    ```bash

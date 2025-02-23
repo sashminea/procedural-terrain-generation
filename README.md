@@ -69,7 +69,6 @@ Procedural-Terrain-Generation/
 │   └── Camera.cpp            # Manages camera controls and movement
 ├── textures/                 # Textures and image assets
 ├── worlds/                   # Directory for storing world data files
-└── vscode/                   # Visual Studio Code configurations (settings, extensions, etc.)
 ```
 
 ---
@@ -107,9 +106,6 @@ Procedural-Terrain-Generation/
 ---
 
 ## Folder Details 📂
-
-### `vscode/`
-Contains configuration files specific to Visual Studio Code for project setup (e.g., extensions and settings).
 
 ### `build/`
 This directory stores the build output such as compiled binaries and object files.

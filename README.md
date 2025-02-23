@@ -1,7 +1,3 @@
-Here's a professional and structured README file for your "Procedural Terrain Generation" project, with emojis and a clear breakdown of project details and folder structure.
-
----
-
 #  Procedural Terrain Generation 
 
 ## Project Overview 

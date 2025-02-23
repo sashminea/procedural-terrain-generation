@@ -56,7 +56,7 @@ The following hotkeys are used for various actions within the program:
 ## Project Structure 📁
 
 ```
-Procedural-Terrain-Generation/
+procedural-terrain-generation/
 ├── .gitignore                # Specifies files to ignore in Git version control
 ├── CMakeLists.txt            # CMake configuration for building the project
 ├── README.md                 # Project overview and setup instructions
@@ -77,11 +77,11 @@ Procedural-Terrain-Generation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Procedural-Terrain-Generation.git
+   git clone https://github.com/your-username/procedural-terrain-generation.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Procedural-Terrain-Generation
+   cd procedural-terrain-generation
    ```
 3. Install dependencies using CMake:
    ```bash

@@ -9,7 +9,7 @@ For a detailed walkthrough, check out my full documentation in this Medium artic
 
 ---
 
-## Screenshots
+## Screenshots 📸
 
 ### Initial Commit (2/23)
 ![Initial Commit](https://i.ibb.co/KzB8RQGP/image.png)

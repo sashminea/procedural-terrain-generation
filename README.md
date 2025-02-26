@@ -5,6 +5,8 @@ This project generates procedurally created terrain for a 3D world. Using a cust
 
 The world generation is flexible, with both flat and procedurally generated worlds available. The project is designed for use with OpenGL and GLFW for rendering, and it leverages C++ for the core logic.
 
+For a detailed walkthrough, check out my full documentation in this Medium article: [Click here](https://medium.com/@sashminadhikari/introduction-to-opengl-procedural-terrain-generation-using-c-dd1d981eebd5)
+
 ---
 
 ## Screenshots

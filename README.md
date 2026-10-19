@@ -7,15 +7,11 @@ The world generation is flexible, with both flat and procedurally generated worl
 
 For a detailed walkthrough, check out my full documentation in this Medium article: [Click here](https://medium.com/@sashminadhikari/introduction-to-opengl-procedural-terrain-generation-using-c-dd1d981eebd5)
 
----
-
-## Screenshots
-
-### Initial Commit (2/23)
-![Initial Commit](https://i.ibb.co/KzB8RQGP/image.png)
-![Initial Commit](https://i.ibb.co/0wvh8Nw/image.png)
+<img width="1257" height="701" alt="image" src="https://github.com/user-attachments/assets/2522642b-c285-4163-8cdd-3ad2c47d14d5" />
+<img width="1262" height="705" alt="image" src="https://github.com/user-attachments/assets/72a923ae-fd20-4abf-8f97-228dc1fc1409" />
 
 ---
+
 
 ## Features
 - **Procedural Terrain Generation**: Generate terrains using Perlin noise.

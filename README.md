@@ -9,7 +9,7 @@ For a detailed walkthrough, check out my full documentation in this Medium artic
 
 ---
 
-## Screenshots 📸
+## Screenshots
 
 ### Initial Commit (2/23)
 ![Initial Commit](https://i.ibb.co/KzB8RQGP/image.png)
@@ -17,7 +17,7 @@ For a detailed walkthrough, check out my full documentation in this Medium artic
 
 ---
 
-## Features ✨
+## Features
 - **Procedural Terrain Generation**: Generate terrains using Perlin noise.
 - **Flat World Option**: Create flat terrains as a default or fallback.
 - **World Saving/Loading**: Save and load worlds from files.
@@ -26,7 +26,7 @@ For a detailed walkthrough, check out my full documentation in this Medium artic
 
 ---
 
-## **Prerequisites ⚙️**
+## **Prerequisites**
 
 Before running the project, make sure you have the following tools installed:
 
@@ -55,7 +55,7 @@ The following hotkeys are used for various actions within the program:
 
 ---
 
-## Project Structure 📁
+## Project Structure
 
 ```
 procedural-terrain-generation/
@@ -75,7 +75,7 @@ procedural-terrain-generation/
 
 ---
 
-## Installation 🛠️
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -93,21 +93,21 @@ procedural-terrain-generation/
 
 ---
 
-## Usage 🎮
+## Usage
 
-### Creating a New World 🌍
+### Creating a New World
 
 1. Initialize a new world with a random seed or flat world configuration.
 2. Generate terrain dynamically and render it using OpenGL.
 
-### Saving/Loading Worlds 💾
+### Saving/Loading Worlds
 
 - **Save**: The world can be saved into the `worlds/` directory with a specific filename (e.g., `1234.world`).
 - **Load**: You can load an existing world from the `worlds/` directory using the `loadWorldFromFile` function.
 
 ---
 
-## Folder Details 📂
+## Folder Details
 
 ### `build/`
 This directory stores the build output such as compiled binaries and object files.
@@ -132,19 +132,19 @@ Directory for storing generated worlds in `.world` files. This is where worlds a
 
 ---
 
-## Contributing 🤝
+## Contributing
 
 We welcome contributions! If you want to help improve this project, feel free to fork it and create a pull request with your changes. For bug fixes, enhancements, or new features, be sure to follow the project's coding guidelines.
 
 ---
 
-## License 📝
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-## Acknowledgments 🙏
+## Acknowledgments
 
 - OpenGL, GLFW, and Glad for the rendering setup.
 - Perlin noise algorithms for terrain generation.
